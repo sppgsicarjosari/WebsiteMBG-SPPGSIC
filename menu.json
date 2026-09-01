@@ -35,8 +35,10 @@
               "value": "12 g"
             }
           ],
-          "peringatan": "Baik Dikonsumsi Sebelum Jam 10.00 WIb",
-                        "Harap dikonsumsi segera setelah diterima.",
+          "peringatan": [
+            "Baik Dikonsumsi Sebelum Jam 10.00 WIb",
+            "Harap dikonsumsi segera setelah diterima.",
+          ]
           "foto": "image/menu-2026-08-31-kecil.jpeg"
         },
         "besar": {
@@ -62,8 +64,10 @@
               "value": "18 g"
             }
           ],
-          "peringatan": "Baik Dikonsumsi Sebelum Jam 12.30 WIb",
-                        "Harap dikonsumsi segera setelah diterima.",
+           "peringatan": [
+            "Baik Dikonsumsi Sebelum Jam 12.30 WIB",
+            "Harap dikonsumsi segera setelah diterima.",
+          ],
           "foto": "image/menu-2026-08-31-besar.jpeg"
         }
       }
@@ -102,8 +106,10 @@
               "value": "2,7 g"
             }
           ],
-          "peringatan": "Baik Dikonsumsi Sebelum Jam 10.00 WIb",
-                        "Harap dikonsumsi segera setelah diterima.",
+          "peringatan": [
+            "Baik Dikonsumsi Sebelum Jam 10.00 WIB",
+            "Harap dikonsumsi segera setelah diterima.",
+          ]
           "foto": "image/menu-2026-09-01-kecil.jpeg"
         },
         "besar": {
@@ -129,8 +135,10 @@
               "value": "2,7 g"
             }
           ],
-          "peringatan": "Baik Dikonsumsi Sebelum Jam 12.30 WIb",
-                        "Harap dikonsumsi segera setelah diterima.",
+          "peringatan": [
+            "Baik Dikonsumsi Sebelum Jam 12.30 WIB",
+            "Harap dikonsumsi segera setelah diterima.",
+          ]
           "foto": "image/menu-2026-09-01-besar.jpeg"
         }
       }
