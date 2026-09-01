@@ -10,7 +10,7 @@
         "Pepaya",
         "Perkedel Tahu"
       ],
-      "penerimaManfaat": 3478,
+      "penerimaManfaat": 3.485,
       "porsi": {
         "kecil": {
           "gizi": [
@@ -23,16 +23,21 @@
               "value": "18 g"
             },
             {
+              "label": "Lemak",
+              "value": "60 g"
+            },
+            {
               "label": "Karbohidrat",
               "value": "60 g"
             },
             {
-              "label": "Lemak",
+              "label": "Serat",
               "value": "12 g"
             }
           ],
-          "peringatan": "Harap dikonsumsi segera setelah diterima.",
-          "foto": "image/menu-2026-08-31-kecil.jpg"
+          "peringatan": "Baik Dikonsumsi Sebelum Jam 10.00 WIb",
+                        "Harap dikonsumsi segera setelah diterima.",
+          "foto": "image/menu-2026-08-31-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -45,72 +50,88 @@
               "value": "25 g"
             },
             {
+              "label": "Lemak",
+              "value": "80 g"
+            },
+            {
               "label": "Karbohidrat",
               "value": "80 g"
             },
             {
-              "label": "Lemak",
+              "label": "Serat",
               "value": "18 g"
             }
           ],
-          "peringatan": "Harap dikonsumsi segera setelah diterima.",
-          "foto": "image/menu-2026-08-31-besar.jpg"
+          "peringatan": "Baik Dikonsumsi Sebelum Jam 12.30 WIb",
+                        "Harap dikonsumsi segera setelah diterima.",
+          "foto": "image/menu-2026-08-31-besar.jpeg"
         }
       }
     },
     "2026-09-01": {
       "hari": "Selasa",
       "isiOmpreng": [
-        "Nasi putih",
-        "Telur bumbu bali",
-        "Sayur bayam bening",
-        "Semangka"
+        "Nasi Putih",
+        "Telur Fuyunghai Ayam",
+        "Tempe Stik",
+        "Tumis Buncis dan Baby Corn",
+        "Anggur Hijau"
       ],
-      "penerimaManfaat": 3502,
+      "penerimaManfaat": 3.485,
       "porsi": {
         "kecil": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "420 kkal"
+              "value": "773,3 kkal"
             },
             {
               "label": "Protein",
-              "value": "15 g"
+              "value": "27,6 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "24,8 g"
             },
             {
               "label": "Karbohidrat",
               "value": "58 g"
             },
             {
-              "label": "Lemak",
-              "value": "10 g"
+              "label": "Serat",
+              "value": "2,7 g"
             }
           ],
-          "peringatan": "Harap dikonsumsi segera setelah diterima.",
-          "foto": "image/menu-2026-09-01-kecil.jpg"
+          "peringatan": "Baik Dikonsumsi Sebelum Jam 10.00 WIb",
+                        "Harap dikonsumsi segera setelah diterima.",
+          "foto": "image/menu-2026-09-01-kecil.jpeg"
         },
         "besar": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "600 kkal"
+              "value": "773,3 kkal"
             },
             {
               "label": "Protein",
-              "value": "20 g"
-            },
-            {
-              "label": "Karbohidrat",
-              "value": "82 g"
+              "value": "27,6 g"
             },
             {
               "label": "Lemak",
-              "value": "15 g"
+              "value": "24,8 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "111,1 g"
+            },
+            {
+              "label": "Serat",
+              "value": "2,7 g"
             }
           ],
-          "peringatan": "Harap dikonsumsi segera setelah diterima.",
-          "foto": "image/menu-2026-09-01-besar.jpg"
+          "peringatan": "Baik Dikonsumsi Sebelum Jam 12.30 WIb",
+                        "Harap dikonsumsi segera setelah diterima.",
+          "foto": "image/menu-2026-09-01-besar.jpeg"
         }
       }
     },
@@ -144,7 +165,7 @@
             }
           ],
           "peringatan": "Harap dikonsumsi segera setelah diterima.",
-          "foto": "image/menu-2026-09-02-kecil.jpg"
+          "foto": "image/menu-2026-09-02-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -166,7 +187,7 @@
             }
           ],
           "peringatan": "Harap dikonsumsi segera setelah diterima.",
-          "foto": "image/menu-2026-09-02-besar.jpg"
+          "foto": "image/menu-2026-09-02-besar.jpeg"
         }
       }
     },
@@ -200,7 +221,7 @@
             }
           ],
           "peringatan": "Harap dikonsumsi segera setelah diterima.",
-          "foto": "image/menu-2026-09-03-kecil.jpg"
+          "foto": "image/menu-2026-09-03-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -222,7 +243,7 @@
             }
           ],
           "peringatan": "Harap dikonsumsi segera setelah diterima.",
-          "foto": "image/menu-2026-09-03-besar.jpg"
+          "foto": "image/menu-2026-09-03-besar.jpeg"
         }
       }
     },
@@ -257,7 +278,7 @@
             }
           ],
           "peringatan": "Harap dikonsumsi segera setelah diterima.",
-          "foto": "image/menu-2026-09-04-kecil.jpg"
+          "foto": "image/menu-2026-09-04-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -279,7 +300,7 @@
             }
           ],
           "peringatan": "Harap dikonsumsi segera setelah diterima.",
-          "foto": "image/menu-2026-09-04-besar.jpg"
+          "foto": "image/menu-2026-09-04-besar.jpeg"
         }
       }
     }
