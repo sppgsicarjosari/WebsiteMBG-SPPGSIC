@@ -8,10 +8,23 @@ const NAMA_BULAN = ['Januari','Februari','Maret','April','Mei','Juni','Juli','Ag
 
 function tanggalHariIni(){
   const d = new Date();
+  return formatKeYMD(d);
+}
+
+function formatKeYMD(d){
   const yyyy = d.getFullYear();
   const mm = String(d.getMonth() + 1).padStart(2, '0');
   const dd = String(d.getDate()).padStart(2, '0');
   return `${yyyy}-${mm}-${dd}`;
+}
+
+// Cari tanggal hari Senin di minggu yang sama dengan tanggalKunci (format YYYY-MM-DD)
+function awalMingguDari(tanggalKunci){
+  const d = new Date(tanggalKunci + 'T00:00:00');
+  const hari = d.getDay(); // 0 = Minggu, 1 = Senin, ... 6 = Sabtu
+  const mundur = (hari === 0) ? 6 : (hari - 1); // kalau Minggu, mundur 6 hari ke Senin sebelumnya
+  d.setDate(d.getDate() - mundur);
+  return formatKeYMD(d);
 }
 
 function formatTanggalIndonesia(d){
@@ -99,8 +112,10 @@ function tampilkanSatuPorsi(porsiKey, entry){
 function tampilkanMingguIni(menuMingguan, kunciHariIni, tanggalAktif){
   const ul = document.getElementById('week-list');
   ul.innerHTML = '';
+
+  const awalMinggu = awalMingguDari(kunciHariIni);
   const entries = Object.entries(menuMingguan || {})
-    .filter(([tanggal]) => tanggal <= kunciHariIni)
+    .filter(([tanggal]) => tanggal >= awalMinggu && tanggal <= kunciHariIni)
     .sort(([a],[b]) => a.localeCompare(b));
 
   if (entries.length === 0){
