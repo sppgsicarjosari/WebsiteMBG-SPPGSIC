@@ -69,8 +69,21 @@ function isiGizi(idUl, daftar){
 }
 
 function isiPeringatan(idEl, teks){
-  document.getElementById(idEl).textContent =
-    (teks && teks.trim().length > 0) ? teks : 'Tidak ada peringatan khusus untuk menu hari ini.';
+  const el = document.getElementById(idEl);
+  // dukung dua format: string biasa, ATAU array kalau mau lebih dari satu kalimat
+  // dibuat aman: apapun tipe datanya, nggak akan bikin error/berhenti di tengah jalan
+  let daftar = [];
+  if (Array.isArray(teks)){
+    daftar = teks.filter(t => typeof t === 'string' && t.trim().length > 0);
+  } else if (typeof teks === 'string' && teks.trim().length > 0){
+    daftar = [teks];
+  }
+
+  if (daftar.length === 0){
+    el.innerHTML = '<p>Tidak ada peringatan khusus untuk menu hari ini.</p>';
+    return;
+  }
+  el.innerHTML = daftar.map(t => `<p>${t}</p>`).join('');
 }
 
 function tampilkanSatuPorsi(porsiKey, entry){
@@ -165,16 +178,25 @@ function renderUntukTanggal(tanggal){
   const tombolKembali = document.getElementById('kembali-hari-ini');
 
   if (!entry){
-    ['kecil','besar'].forEach(p => tampilkanSatuPorsi(p, { porsi: {} }));
+    ['kecil','besar'].forEach(p => {
+      try { tampilkanSatuPorsi(p, { porsi: {} }); }
+      catch(e){ console.error('Gagal render porsi ' + p, e); }
+    });
   } else {
     document.getElementById('hari-tanggal').textContent =
       formatTanggalIndonesia(new Date(tanggal + 'T00:00:00'));
-    tampilkanSatuPorsi('kecil', entry);
-    tampilkanSatuPorsi('besar', entry);
+
+    try { tampilkanSatuPorsi('kecil', entry); }
+    catch(e){ console.error('Gagal render porsi kecil (cek menu.json tanggal ' + tanggal + ')', e); }
+
+    try { tampilkanSatuPorsi('besar', entry); }
+    catch(e){ console.error('Gagal render porsi besar (cek menu.json tanggal ' + tanggal + ')', e); }
   }
 
   tombolKembali.hidden = (tanggal === kunciHariIniGlobal);
-  tampilkanMingguIni(dataGlobal.menu, kunciHariIniGlobal, tanggal);
+
+  try { tampilkanMingguIni(dataGlobal.menu, kunciHariIniGlobal, tanggal); }
+  catch(e){ console.error('Gagal render menu minggu ini', e); }
 }
 
 async function init(){
