@@ -229,6 +229,14 @@ body{
   color: var(--teks-lembut);
   line-height: 1.5;
 }
+.notice__text p{
+  margin: 0;
+}
+.notice__text p + p{
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px dashed #F0DCAE;
+}
 
 .week{ padding: 20px 20px 4px; }
 .week__title{
