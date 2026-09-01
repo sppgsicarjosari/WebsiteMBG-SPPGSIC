@@ -7,8 +7,8 @@
         "Nasi putih",
         "Ayam Kungpao",
         "Cah Sawi Putih",
-        "Perkedel Tahu",
-        "Pepaya"
+        "Pepaya",
+        "Perkedel Tahu"
       ],
       "penerimaManfaat": 3485,
       "porsi": {
@@ -36,9 +36,9 @@
             }
           ],
           "peringatan": [
-            "Baik Dikonsumsi Sebelum Jam 10.00 WIb",
+            "Baik Dikonsumsi Sebelum Jam 10.00 WIB",
             "Harap dikonsumsi segera setelah diterima."
-          ]
+          ],
           "foto": "image/menu-2026-08-31-kecil.jpeg"
         },
         "besar": {
@@ -53,7 +53,7 @@
             },
             {
               "label": "Lemak",
-              "value": "80 g"
+              "value": "18 g"
             },
             {
               "label": "Karbohidrat",
@@ -61,11 +61,11 @@
             },
             {
               "label": "Serat",
-              "value": "18 g"
+              "value": "14 g"
             }
           ],
-           "peringatan": [
-            "Baik Dikonsumsi Sebelum Jam 12.30 WIB",
+          "peringatan": [
+            "Baik Dikonsumsi Sebelum Jam 10.00 WIB",
             "Harap dikonsumsi segera setelah diterima."
           ],
           "foto": "image/menu-2026-08-31-besar.jpeg"
@@ -75,70 +75,69 @@
     "2026-09-01": {
       "hari": "Selasa",
       "isiOmpreng": [
-        "Nasi Putih",
-        "Telur Fuyunghai Ayam",
-        "Tempe Stik",
-        "Tumis Buncis dan Baby Corn",
-        "Anggur Hijau"
+        "Nasi putih",
+        "Telur bumbu bali",
+        "Sayur bayam bening",
+        "Semangka"
       ],
-      "penerimaManfaat": 3485,
+      "penerimaManfaat": 3502,
       "porsi": {
         "kecil": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "773,3 kkal"
+              "value": "450 kkal"
             },
             {
               "label": "Protein",
-              "value": "27,6 g"
+              "value": "18 g"
             },
             {
               "label": "Lemak",
-              "value": "24,8 g"
+              "value": "60 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "58 g"
+              "value": "60 g"
             },
             {
               "label": "Serat",
-              "value": "2,7 g"
+              "value": "12 g"
             }
           ],
           "peringatan": [
             "Baik Dikonsumsi Sebelum Jam 10.00 WIB",
             "Harap dikonsumsi segera setelah diterima."
-          ]
+          ],
           "foto": "image/menu-2026-09-01-kecil.jpeg"
         },
         "besar": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "773,3 kkal"
+              "value": "650 kkal"
             },
             {
               "label": "Protein",
-              "value": "27,6 g"
+              "value": "25 g"
             },
             {
               "label": "Lemak",
-              "value": "24,8 g"
+              "value": "18 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "111,1 g"
+              "value": "80 g"
             },
             {
               "label": "Serat",
-              "value": "2,7 g"
+              "value": "14 g"
             }
           ],
           "peringatan": [
-            "Baik Dikonsumsi Sebelum Jam 12.30 WIB",
+            "Baik Dikonsumsi Sebelum Jam 10.00 WIB",
             "Harap dikonsumsi segera setelah diterima."
-          ]
+          ],
           "foto": "image/menu-2026-09-01-besar.jpeg"
         }
       }
@@ -157,44 +156,58 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "440 kkal"
+              "value": "450 kkal"
             },
             {
               "label": "Protein",
-              "value": "17 g"
-            },
-            {
-              "label": "Karbohidrat",
-              "value": "56 g"
+              "value": "18 g"
             },
             {
               "label": "Lemak",
-              "value": "11 g"
+              "value": "60 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "60 g"
+            },
+            {
+              "label": "Serat",
+              "value": "12 g"
             }
           ],
-          "peringatan": "Harap dikonsumsi segera setelah diterima.",
+          "peringatan": [
+            "Baik Dikonsumsi Sebelum Jam 10.00 WIB",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
           "foto": "image/menu-2026-09-02-kecil.jpeg"
         },
         "besar": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "620 kkal"
+              "value": "650 kkal"
             },
             {
               "label": "Protein",
-              "value": "24 g"
-            },
-            {
-              "label": "Karbohidrat",
-              "value": "78 g"
+              "value": "25 g"
             },
             {
               "label": "Lemak",
-              "value": "16 g"
+              "value": "18 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "80 g"
+            },
+            {
+              "label": "Serat",
+              "value": "14 g"
             }
           ],
-          "peringatan": "Harap dikonsumsi segera setelah diterima.",
+          "peringatan": [
+            "Baik Dikonsumsi Sebelum Jam 10.00 WIB",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
           "foto": "image/menu-2026-09-02-besar.jpeg"
         }
       }
@@ -213,44 +226,58 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "410 kkal"
-            },
-            {
-              "label": "Protein",
-              "value": "13 g"
-            },
-            {
-              "label": "Karbohidrat",
-              "value": "60 g"
-            },
-            {
-              "label": "Lemak",
-              "value": "9 g"
-            }
-          ],
-          "peringatan": "Harap dikonsumsi segera setelah diterima.",
-          "foto": "image/menu-2026-09-03-kecil.jpeg"
-        },
-        "besar": {
-          "gizi": [
-            {
-              "label": "Energi",
-              "value": "580 kkal"
+              "value": "450 kkal"
             },
             {
               "label": "Protein",
               "value": "18 g"
             },
             {
+              "label": "Lemak",
+              "value": "60 g"
+            },
+            {
               "label": "Karbohidrat",
-              "value": "84 g"
+              "value": "60 g"
+            },
+            {
+              "label": "Serat",
+              "value": "12 g"
+            }
+          ],
+          "peringatan": [
+            "Baik Dikonsumsi Sebelum Jam 10.00 WIB",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-09-03-kecil.jpeg"
+        },
+        "besar": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "650 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "25 g"
             },
             {
               "label": "Lemak",
-              "value": "13 g"
+              "value": "18 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "80 g"
+            },
+            {
+              "label": "Serat",
+              "value": "14 g"
             }
           ],
-          "peringatan": "Harap dikonsumsi segera setelah diterima.",
+          "peringatan": [
+            "Baik Dikonsumsi Sebelum Jam 10.00 WIB",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
           "foto": "image/menu-2026-09-03-besar.jpeg"
         }
       }
@@ -270,44 +297,58 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "430 kkal"
+              "value": "450 kkal"
             },
             {
               "label": "Protein",
-              "value": "16 g"
-            },
-            {
-              "label": "Karbohidrat",
-              "value": "59 g"
+              "value": "18 g"
             },
             {
               "label": "Lemak",
-              "value": "11 g"
+              "value": "60 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "60 g"
+            },
+            {
+              "label": "Serat",
+              "value": "12 g"
             }
           ],
-          "peringatan": "Harap dikonsumsi segera setelah diterima.",
+          "peringatan": [
+            "Baik Dikonsumsi Sebelum Jam 10.00 WIB",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
           "foto": "image/menu-2026-09-04-kecil.jpeg"
         },
         "besar": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "640 kkal"
+              "value": "650 kkal"
             },
             {
               "label": "Protein",
-              "value": "23 g"
-            },
-            {
-              "label": "Karbohidrat",
-              "value": "79 g"
+              "value": "25 g"
             },
             {
               "label": "Lemak",
-              "value": "17 g"
+              "value": "18 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "80 g"
+            },
+            {
+              "label": "Serat",
+              "value": "14 g"
             }
           ],
-          "peringatan": "Harap dikonsumsi segera setelah diterima.",
+          "peringatan": [
+            "Baik Dikonsumsi Sebelum Jam 10.00 WIB",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
           "foto": "image/menu-2026-09-04-besar.jpeg"
         }
       }
