@@ -145,10 +145,11 @@
     "2026-09-02": {
       "hari": "Rabu",
       "isiOmpreng": [
-        "Nasi putih",
-        "Ikan nila goreng",
-        "Tumis buncis wortel",
-        "Jeruk"
+        "Nasi Putih",
+        "Ikan Lele Crispy ",
+        "Tahu Sutra",
+        "Sayur Asem",
+        "Buah Semangka"
       ],
       "penerimaManfaat": 3491,
       "porsi": {
@@ -156,23 +157,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "450 kkal"
+              "value": "507,2 kkal"
             },
             {
               "label": "Protein",
-              "value": "18 g"
+              "value": "16,4 g"
             },
             {
               "label": "Lemak",
-              "value": "60 g"
+              "value": "15,4 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "60 g"
+              "value": "75,5 g"
             },
             {
               "label": "Serat",
-              "value": "12 g"
+              "value": "2,7 g"
             }
           ],
           "peringatan": [
@@ -185,23 +186,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "650 kkal"
+              "value": "709,2 kkal"
             },
             {
               "label": "Protein",
-              "value": "25 g"
+              "value": "23,0 g"
             },
             {
               "label": "Lemak",
-              "value": "18 g"
+              "value": "21,7 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "80 g"
+              "value": "105,6 g"
             },
             {
               "label": "Serat",
-              "value": "14 g"
+              "value": "4,4 g"
             }
           ],
           "peringatan": [
