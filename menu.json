@@ -216,10 +216,12 @@
     "2026-09-03": {
       "hari": "Kamis",
       "isiOmpreng": [
-        "Nasi putih",
-        "Tempe orek",
-        "Sup sayur",
-        "Pepaya"
+        "Nasi Putih",
+        "Telur Puyuh Balado",
+        "Oseng Tempe Kecap",
+        "Tumis Wortel dan Jagung",
+        "Buah Pisang Cavendish",
+        "Susu UHT"
       ],
       "penerimaManfaat": 3465,
       "porsi": {
@@ -227,23 +229,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "450 kkal"
+              "value": "553,2 kkal"
             },
             {
               "label": "Protein",
-              "value": "18 g"
+              "value": "19,2 g"
             },
             {
               "label": "Lemak",
-              "value": "60 g"
+              "value": "16,7 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "60 g"
+              "value": "83,0 g"
             },
             {
               "label": "Serat",
-              "value": "12 g"
+              "value": "2,3 g"
             }
           ],
           "peringatan": [
@@ -256,23 +258,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "650 kkal"
+              "value": "691,1 kkal"
             },
             {
               "label": "Protein",
-              "value": "25 g"
+              "value": "24,2 g"
             },
             {
               "label": "Lemak",
-              "value": "18 g"
+              "value": "19,3 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "80 g"
+              "value": "106,7 g"
             },
             {
               "label": "Serat",
-              "value": "14 g"
+              "value": "2,7 g"
             }
           ],
           "peringatan": [
