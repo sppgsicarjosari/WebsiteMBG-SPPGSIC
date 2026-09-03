@@ -288,11 +288,11 @@
     "2026-09-04": {
       "hari": "Jumat",
       "isiOmpreng": [
-        "Nasi putih",
-        "Ayam suwir kecap",
-        "Capcay",
-        "Pisang",
-        "Susu UHT"
+        "Kentang",
+        "Ayam Karaage",
+        "Pangsit Tahu dan Sawi",
+        "Manggis",
+        "Saus Bangkok"
       ],
       "penerimaManfaat": 3510,
       "porsi": {
@@ -300,23 +300,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "450 kkal"
+              "value": "409,3 kkal"
             },
             {
               "label": "Protein",
-              "value": "18 g"
+              "value": "18,4 g"
             },
             {
               "label": "Lemak",
-              "value": "60 g"
+              "value": "18,4 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "60 g"
+              "value": "46,2 g"
             },
             {
               "label": "Serat",
-              "value": "12 g"
+              "value": "1,6 g"
             }
           ],
           "peringatan": [
@@ -329,23 +329,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "650 kkal"
+              "value": "636,8 kkal"
             },
             {
               "label": "Protein",
-              "value": "25 g"
+              "value": "25,6 g"
             },
             {
               "label": "Lemak",
-              "value": "18 g"
+              "value": "19,9 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "80 g"
+              "value": "92,2 g"
             },
             {
               "label": "Serat",
-              "value": "14 g"
+              "value": "4,5 g"
             }
           ],
           "peringatan": [
