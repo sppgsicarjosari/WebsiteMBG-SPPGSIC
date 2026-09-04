@@ -355,6 +355,362 @@
           "foto": "image/menu-2026-09-04-besar.jpeg"
         }
       }
+    },
+    "2026-09-07": {
+      "hari": "Senin",
+      "isiOmpreng": [
+        "Nasi Rumput Laut",
+        "Telur Ceplok Teriyaki",
+        "Tahu Kremes",
+        "Tumis Sayur",
+        "Buah Semangka"
+      ],
+      "penerimaManfaat": 3485,
+      "porsi": {
+        "kecil": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "450 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "18 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "60 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "60 g"
+            },
+            {
+              "label": "Serat",
+              "value": "12 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-08-31-kecil.jpeg"
+        },
+        "besar": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "650 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "25 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "18 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "80 g"
+            },
+            {
+              "label": "Serat",
+              "value": "14 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-08-31-besar.jpeg"
+        }
+      }
+    },
+    "2026-09-01": {
+      "hari": "Selasa",
+      "isiOmpreng": [
+        "Nasi putih",
+        "Telur bumbu bali",
+        "Sayur bayam bening",
+        "Semangka"
+      ],
+      "penerimaManfaat": 3485,
+      "porsi": {
+        "kecil": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "450 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "18 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "60 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "60 g"
+            },
+            {
+              "label": "Serat",
+              "value": "12 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-09-01-kecil.jpeg"
+        },
+        "besar": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "650 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "25 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "18 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "80 g"
+            },
+            {
+              "label": "Serat",
+              "value": "14 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-09-01-besar.jpeg"
+        }
+      }
+    },
+    "2026-09-02": {
+      "hari": "Rabu",
+      "isiOmpreng": [
+        "Nasi Putih",
+        "Ikan Lele Crispy ",
+        "Tahu Sutra",
+        "Sayur Asem",
+        "Buah Semangka"
+      ],
+      "penerimaManfaat": 3485,
+      "porsi": {
+        "kecil": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "507,2 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "16,4 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "15,4 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "75,5 g"
+            },
+            {
+              "label": "Serat",
+              "value": "2,7 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-09-02-kecil.jpeg"
+        },
+        "besar": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "709,2 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "23,0 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "21,7 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "105,6 g"
+            },
+            {
+              "label": "Serat",
+              "value": "4,4 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-09-02-besar.jpeg"
+        }
+      }
+    },
+    "2026-09-03": {
+      "hari": "Kamis",
+      "isiOmpreng": [
+        "Nasi Putih",
+        "Telur Puyuh Balado",
+        "Oseng Tempe Kecap",
+        "Tumis Wortel dan Jagung",
+        "Buah Pisang Cavendish",
+        "Susu UHT"
+      ],
+      "penerimaManfaat": 3465,
+      "porsi": {
+        "kecil": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "553,2 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "19,2 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "16,7 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "83,0 g"
+            },
+            {
+              "label": "Serat",
+              "value": "2,3 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-09-03-kecil.jpeg"
+        },
+        "besar": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "691,1 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "24,2 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "19,3 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "106,7 g"
+            },
+            {
+              "label": "Serat",
+              "value": "2,7 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-09-03-besar.jpeg"
+        }
+      }
+    },
+    "2026-09-04": {
+      "hari": "Jumat",
+      "isiOmpreng": [
+        "Kentang",
+        "Ayam Karaage",
+        "Pangsit Tahu dan Sawi",
+        "Buah Manggis",
+        "Saus Bangkok"
+      ],
+      "penerimaManfaat": 3451,
+      "porsi": {
+        "kecil": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "409,3 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "18,4 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "18,4 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "46,2 g"
+            },
+            {
+              "label": "Serat",
+              "value": "1,6 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-09-04-kecil.jpeg"
+        },
+        "besar": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "636,8 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "25,6 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "19,9 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "92,2 g"
+            },
+            {
+              "label": "Serat",
+              "value": "4,5 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-09-04-besar.jpeg"
+        }
+      }
     }
   }
 }
+
