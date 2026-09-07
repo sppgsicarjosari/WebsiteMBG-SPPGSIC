@@ -427,13 +427,14 @@
         }
       }
     },
-    "2026-09-01": {
+    "2026-09-08": {
       "hari": "Selasa",
       "isiOmpreng": [
-        "Nasi putih",
-        "Telur bumbu bali",
-        "Sayur bayam bening",
-        "Semangka"
+        "Nasi Putih",
+        "Ayam Kecap",
+        "Tempe Goreng Tepung",
+        "Tumis Sayur Wortel dan Baby Corn",
+        "Buah Pisang"
       ],
       "penerimaManfaat": 3485,
       "porsi": {
@@ -464,7 +465,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-01-kecil.jpeg"
+          "foto": "image/menu-2026-09-08-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -493,11 +494,11 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-01-besar.jpeg"
+          "foto": "image/menu-2026-09-08-besar.jpeg"
         }
       }
     },
-    "2026-09-02": {
+    "2026-09-09": {
       "hari": "Rabu",
       "isiOmpreng": [
         "Nasi Putih",
@@ -535,7 +536,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-02-kecil.jpeg"
+          "foto": "image/menu-2026-09-09-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -564,11 +565,11 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-02-besar.jpeg"
+          "foto": "image/menu-2026-09-09-besar.jpeg"
         }
       }
     },
-    "2026-09-03": {
+    "2026-09-10": {
       "hari": "Kamis",
       "isiOmpreng": [
         "Nasi Putih",
@@ -607,7 +608,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-03-kecil.jpeg"
+          "foto": "image/menu-2026-09-10-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -636,11 +637,11 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-03-besar.jpeg"
+          "foto": "image/menu-2026-09-10-besar.jpeg"
         }
       }
     },
-    "2026-09-04": {
+    "2026-09-11": {
       "hari": "Jumat",
       "isiOmpreng": [
         "Kentang",
@@ -678,7 +679,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-04-kecil.jpeg"
+          "foto": "image/menu-2026-09-11-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -707,7 +708,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-04-besar.jpeg"
+          "foto": "image/menu-2026-09-11-besar.jpeg"
         }
       }
     }
