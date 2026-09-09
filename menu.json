@@ -584,23 +584,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "553,2 kkal"
+              "value": "481,9 kkal"
             },
             {
               "label": "Protein",
-              "value": "19,2 g"
+              "value": "17,5 g"
             },
             {
               "label": "Lemak",
-              "value": "16,7 g"
+              "value": "15,1 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "83,0 g"
+              "value": "68,3 g"
             },
             {
               "label": "Serat",
-              "value": "2,3 g"
+              "value": "2,7 g"
             }
           ],
           "peringatan": [
@@ -613,23 +613,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "691,1 kkal"
+              "value": "679,4 kkal"
             },
             {
               "label": "Protein",
-              "value": "24,2 g"
+              "value": "26,7 g"
             },
             {
               "label": "Lemak",
-              "value": "19,3 g"
+              "value": "22,6 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "106,7 g"
+              "value": "91,4 g"
             },
             {
               "label": "Serat",
-              "value": "2,7 g"
+              "value": "3,4 g"
             }
           ],
           "peringatan": [
@@ -643,11 +643,11 @@
     "2026-09-11": {
       "hari": "Jumat",
       "isiOmpreng": [
-        "Kentang",
-        "Ayam Karaage",
-        "Pangsit Tahu dan Sawi",
-        "Buah Manggis",
-        "Saus Bangkok"
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "penerimaManfaat": 3451,
       "porsi": {
