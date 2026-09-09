@@ -507,7 +507,7 @@
         "Sayur Sop",
         "Buah Kelengkeng"
       ],
-      "penerimaManfaat": 3526,
+      "penerimaManfaat": 3490,
       "porsi": {
         "kecil": {
           "gizi": [
@@ -573,13 +573,12 @@
       "hari": "Kamis",
       "isiOmpreng": [
         "Nasi Putih",
-        "Telur Puyuh Balado",
-        "Oseng Tempe Kecap",
-        "Tumis Wortel dan Jagung",
-        "Buah Pisang Cavendish",
-        "Susu UHT"
+        "Tongseng Ayam & Kol",
+        "Tempe Goreng",
+        "Jeruk Baby",
+        "Kerupuk Udang"
       ],
-      "penerimaManfaat": 3465,
+      "penerimaManfaat": 2524,
       "porsi": {
         "kecil": {
           "gizi": [
@@ -606,7 +605,7 @@
           ],
           "peringatan": [
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong",
-            "Harap dikonsumsi segera setelah diterima."
+            "Harap dikonsumsi segera setelah diterima !."
           ],
           "foto": "image/menu-2026-09-10-kecil.jpeg"
         },
@@ -635,7 +634,7 @@
           ],
           "peringatan": [
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong",
-            "Harap dikonsumsi segera setelah diterima."
+            "Harap dikonsumsi segera setelah diterima !."
           ],
           "foto": "image/menu-2026-09-10-besar.jpeg"
         }
