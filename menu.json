@@ -643,13 +643,14 @@
     "2026-09-11": {
       "hari": "Jumat",
       "isiOmpreng": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Roti Bun",
+        "Chicken Patty",
+        "Edamame",
+        "Selada dan Timun",
+        "Saus Thousand Island",
+        "Anggur Merah"
       ],
-      "penerimaManfaat": 3451,
+      "penerimaManfaat": 3456,
       "porsi": {
         "kecil": {
           "gizi": [
