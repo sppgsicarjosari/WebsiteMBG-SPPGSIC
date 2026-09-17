@@ -783,74 +783,75 @@
         }
       }
     },
-    "2026-09-15": {
-      "hari": "Selasa",
+    "2026-09-18": {
+      "hari": "Jumat",
       "isiOmpreng": [
-        "Nasi Putih",
-        "Ayam Kecap",
-        "Tempe Goreng Tepung",
-        "Tumis Sayur Wortel dan Baby Corn",
-        "Buah Pisang"
+        "Kentang Rebus",
+        "Telur Rebus",
+        "Tahu Kremes",
+        "Kacang Panjang,Wortel, Kol",
+        "Bumbu Kacang",
+        "Buah Kelengkeng"
       ],
-      "penerimaManfaat": 3490,
+      "penerimaManfaat": 3064,
       "porsi": {
         "kecil": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "583,4 kkal"
+              "value": "416,5 kkal"
             },
             {
               "label": "Protein",
-              "value": "19,1 g"
+              "value": "17,5 g"
             },
             {
               "label": "Lemak",
-              "value": "19,1 g"
+              "value": "19,3 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "83,8 g"
+              "value": "48,4 g"
             },
             {
               "label": "Serat",
-              "value": "2,4 g"
+              "value": "3,4 g"
             }
           ],
           "peringatan": [
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-15-kecil.jpeg"
+          "foto": "image/menu-2026-09-18-kecil.jpeg"
         },
         "besar": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "739,1 kkal"
+              "value": "509,0 kkal"
             },
             {
               "label": "Protein",
-              "value": "26,1 g"
+              "value": "21,8 g"
             },
             {
               "label": "Lemak",
-              "value": "22,2 g"
+              "value": "25,8 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "108,4 g"
+              "value": "53,2 g"
             },
             {
               "label": "Serat",
-              "value": "2,7 g"
+              "value": "3,9 g"
             }
           ],
           "peringatan": [
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-15-besar.jpeg"
+          "foto": "image/menu-2026-09-18-besar.jpeg"
         }
       }
     }
