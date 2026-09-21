@@ -7,32 +7,32 @@
         "Nasi Putih",
         "Rendang Telur",
         "Kering Tempe",
-        "Tumis Sayur",
+        "Cah Sawi Putih",
         "Buah Kelengkeng"
       ],
-      "penerimaManfaat": 3485,
+      "penerimaManfaat": 2422,
       "porsi": {
         "kecil": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "450 kkal"
+              "value": "504,7 kkal"
             },
             {
               "label": "Protein",
-              "value": "18 g"
+              "value": "18,4 g"
             },
             {
               "label": "Lemak",
-              "value": "60 g"
+              "value": "23,2 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "60 g"
+              "value": "56,7 g"
             },
             {
               "label": "Serat",
-              "value": "12 g"
+              "value": "2,6 g"
             }
           ],
           "peringatan": [
@@ -45,23 +45,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "650 kkal"
+              "value": "678,9 kkal"
             },
             {
               "label": "Protein",
-              "value": "25 g"
+              "value": "23,3 g"
             },
             {
               "label": "Lemak",
-              "value": "18 g"
+              "value": "26,3 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "80 g"
+              "value": "88,0 g"
             },
             {
               "label": "Serat",
-              "value": "14 g"
+              "value": "3,0 g"
             }
           ],
           "peringatan": [
