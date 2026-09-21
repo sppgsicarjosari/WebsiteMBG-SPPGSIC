@@ -75,34 +75,36 @@
     "2026-09-22": {
       "hari": "Selasa",
       "isiOmpreng": [
-        "Nasi putih",
-        "Telur bumbu bali",
-        "Sayur bayam bening",
-        "Semangka"
+        "Nasi Putih",
+        "Ayam Kentucky",
+        "Tahu Goreng",
+        "Tumis Kacang Panjang",
+        "Sambal Bawang",
+        "Buah Anggur Hijau"
       ],
-      "penerimaManfaat": 3485,
+      "penerimaManfaat": 3372,
       "porsi": {
         "kecil": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "450 kkal"
+              "value": "548,5 kkal"
             },
             {
               "label": "Protein",
-              "value": "18 g"
+              "value": "17,4 g"
             },
             {
               "label": "Lemak",
-              "value": "60 g"
+              "value": "22,5 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "60 g"
+              "value": "76,3 g"
             },
             {
               "label": "Serat",
-              "value": "12 g"
+              "value": "1,9 g"
             }
           ],
           "peringatan": [
@@ -115,23 +117,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "650 kkal"
+              "value": "736,9 kkal"
             },
             {
               "label": "Protein",
-              "value": "25 g"
+              "value": "22,2 g"
             },
             {
               "label": "Lemak",
-              "value": "18 g"
+              "value": "28,6 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "80 g"
+              "value": "97,7 g"
             },
             {
               "label": "Serat",
-              "value": "14 g"
+              "value": "2,2 g"
             }
           ],
           "peringatan": [
@@ -146,7 +148,7 @@
       "hari": "Rabu",
       "isiOmpreng": [
         "Nasi Putih",
-        "Ikan Lele Crispy ",
+        "Ikan Lele Crispy",
         "Tahu Sutra",
         "Sayur Asem",
         "Buah Semangka"
