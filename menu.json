@@ -1,7 +1,7 @@
 {
   "dapur": "SPPG Kota Malang Blimbing Arjosari",
   "menu": {
-    "2026-09-21": {
+    "2026-09-28": {
       "hari": "Senin",
       "isiOmpreng": [
         "Nasi Putih",
@@ -39,7 +39,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-21-kecil.jpeg"
+          "foto": "image/menu-2026-09-28-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -68,11 +68,11 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-21-besar.jpeg"
+          "foto": "image/menu-2026-09-28-besar.jpeg"
         }
       }
     },
-    "2026-09-22": {
+    "2026-09-29": {
       "hari": "Selasa",
       "isiOmpreng": [
         "Nasi Putih",
@@ -111,7 +111,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-22-kecil.jpeg"
+          "foto": "image/menu-2026-09-29-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -140,11 +140,11 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-22-besar.jpeg"
+          "foto": "image/menu-2026-09-29-besar.jpeg"
         }
       }
     },
-    "2026-09-23": {
+    "2026-09-30": {
       "hari": "Rabu",
       "isiOmpreng": [
         "Nasi Putih",
@@ -182,7 +182,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-23-kecil.jpeg"
+          "foto": "image/menu-2026-09-30-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -211,11 +211,11 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-23-besar.jpeg"
+          "foto": "image/menu-2026-09-30-besar.jpeg"
         }
       }
     },
-    "2026-09-24": {
+    "2026-10-01": {
       "hari": "Kamis",
       "isiOmpreng": [
         "Nasi Putih",
@@ -253,7 +253,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-24-kecil.jpeg"
+          "foto": "image/menu-2026-10-01-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -282,11 +282,11 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-24-besar.jpeg"
+          "foto": "image/menu-2026-10-01-besar.jpeg"
         }
       }
     },
-    "2026-09-25": {
+    "2026-10-02": {
       "hari": "Jumat",
       "isiOmpreng": [
         "Taro Balls",
@@ -325,7 +325,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-25-kecil.jpeg"
+          "foto": "image/menu-2026-10-02-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -354,7 +354,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-25-besar.jpeg"
+          "foto": "image/menu-2026-10-02-besar.jpeg"
         }
       }
     }
