@@ -11,7 +11,7 @@
         "Buah Melon",
         "Susu"
       ],
-      "penerimaManfaat": 2422,
+      "penerimaManfaat": 2402,
       "porsi": {
         "kecil": {
           "gizi": [
@@ -77,13 +77,13 @@
       "hari": "Selasa",
       "isiOmpreng": [
         "Nasi Putih",
-        "Ayam Kentucky",
-        "Tahu Goreng",
-        "Tumis Kacang Panjang",
-        "Sambal Bawang",
-        "Buah Anggur Hijau"
+        "Lele Crispy",
+        "Tahu Goreng Tiga Rasa",
+        "Tumis Buncis dan Wortel",
+        "Jeruk Siem",
+        "Sambal Terasi"
       ],
-      "penerimaManfaat": 3372,
+      "penerimaManfaat": 3352,
       "porsi": {
         "kecil": {
           "gizi": [
@@ -149,12 +149,12 @@
       "hari": "Rabu",
       "isiOmpreng": [
         "Nasi Putih",
-        "Daging Lada Hitam",
-        "Tempe Goreng",
-        "Kimlo Kering",
-        "Buah Semangka"
+        "Ayam Bakar",
+        "Tempe Garit",
+        "Sop (Wortel, Kembang Kol, Kentang)",
+        "Anggur Merah"
       ],
-      "penerimaManfaat": 3372,
+      "penerimaManfaat": 3352,
       "porsi": {
         "kecil": {
           "gizi": [
@@ -220,12 +220,12 @@
       "hari": "Kamis",
       "isiOmpreng": [
         "Nasi Putih",
-        "Chicken Wings BBQ",
-        "Tahu Crispy",
-        "Tumis Caisim dan Jagung",
-        "Buah Pisang Cavendish"
+        "Scotch Egg",
+        "Edamame",
+        "Pokcoy Bawang Putih",
+        "Buah Salak"
       ],
-      "penerimaManfaat": 1623,
+      "penerimaManfaat": 2402,
       "porsi": {
         "kecil": {
           "gizi": [
@@ -290,14 +290,13 @@
     "2026-10-02": {
       "hari": "Jumat",
       "isiOmpreng": [
-        "Taro Balls",
-        "Telur Dadar Steam",
-        "Kacang Merah",
-        "Jagung Pipil",
-        "Jeruk Baby",
-        "Fiber Creme"
+        "Roti Tawar",
+        "Siomay Ayam dan Tahu",
+        "Jagung + Keju",
+        "Pisang Barlin",
+        "Milk Sauce"
       ],
-      "penerimaManfaat": 2560,
+      "penerimaManfaat": 3343,
       "porsi": {
         "kecil": {
           "gizi": [
