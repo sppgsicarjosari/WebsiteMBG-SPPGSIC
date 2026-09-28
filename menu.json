@@ -5,10 +5,11 @@
       "hari": "Senin",
       "isiOmpreng": [
         "Nasi Putih",
-        "Rendang Telur",
-        "Kering Tempe",
-        "Cah Sawi Putih",
-        "Buah Kelengkeng"
+        "Telur Saus Tomat",
+        "Tempe Stik",
+        "Tumis Baby Corn dan Jamur Kuping",
+        "Buah Melon",
+        "Susu"
       ],
       "penerimaManfaat": 2422,
       "porsi": {
@@ -16,23 +17,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "504,7 kkal"
+              "value": "610,0 kkal"
             },
             {
               "label": "Protein",
-              "value": "18,4 g"
+              "value": "23,4 g"
             },
             {
               "label": "Lemak",
-              "value": "23,2 g"
+              "value": "20,4 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "56,7 g"
+              "value": "83,2 g"
             },
             {
               "label": "Serat",
-              "value": "2,6 g"
+              "value": "2,1 g"
             }
           ],
           "peringatan": [
@@ -45,23 +46,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "678,9 kkal"
+              "value": "782,8 kkal"
             },
             {
               "label": "Protein",
-              "value": "23,3 g"
+              "value": "28,6 g"
             },
             {
               "label": "Lemak",
-              "value": "26,3 g"
+              "value": "24,4 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "88,0 g"
+              "value": "112,4 g"
             },
             {
               "label": "Serat",
-              "value": "3,0 g"
+              "value": "2,8 g"
             }
           ],
           "peringatan": [
