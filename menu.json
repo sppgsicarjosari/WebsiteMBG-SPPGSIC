@@ -72,79 +72,72 @@
         }
       }
     },
-    "2026-09-29": {
+    "2026-10-06": {
       "hari": "Selasa",
-      "isiOmpreng": [
-        "Nasi Putih",
-        "Lele Crispy",
-        "Tahu Goreng Tiga Rasa",
-        "Tumis Buncis dan Wortel",
-        "Jeruk Siem",
-        "Sambal Terasi"
-      ],
-      "penerimaManfaat": 3359,
+      "isiOmpreng": ["Libur Operasional"]
+      "penerimaManfaat": 0,
       "porsi": {
         "kecil": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "500,0 kkal"
+              "value": "0 kkal"
             },
             {
               "label": "Protein",
-              "value": "15,4 g"
+              "value": "0 g"
             },
             {
               "label": "Lemak",
-              "value": "17,1 g"
+              "value": "0 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "70,9 g"
+              "value": "0 g"
             },
             {
               "label": "Serat",
-              "value": "1,7 g"
+              "value": "0 g"
             }
           ],
           "peringatan": [
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-29-kecil.jpeg"
+          "foto": "image/menu-2026-10-06-kecil.jpeg"
         },
         "besar": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "669,2 kkal"
+              "value": "0 kkal"
             },
             {
               "label": "Protein",
-              "value": "20,7 g"
+              "value": "0 g"
             },
             {
               "label": "Lemak",
-              "value": "22,9 g"
+              "value": "0 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "94,7 g"
+              "value": "0 g"
             },
             {
               "label": "Serat",
-              "value": "2,8 g"
+              "value": "0 g"
             }
           ],
           "peringatan": [
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-29-besar.jpeg"
+          "foto": "image/menu-2026-10-06-besar.jpeg"
         }
       }
     },
-    "2026-09-30": {
+    "2026-10-07": {
       "hari": "Rabu",
       "isiOmpreng": [
         "Nasi Putih",
@@ -182,7 +175,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-30-kecil.jpeg"
+          "foto": "image/menu-2026-10-07-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -211,11 +204,11 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-30-besar.jpeg"
+          "foto": "image/menu-2026-10-07-besar.jpeg"
         }
       }
     },
-    "2026-10-01": {
+    "2026-10-08": {
       "hari": "Kamis",
       "isiOmpreng": [
         "Nasi Putih",
@@ -253,7 +246,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-01-kecil.jpeg"
+          "foto": "image/menu-2026-10-08-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -282,11 +275,11 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-01-besar.jpeg"
+          "foto": "image/menu-2026-10-08-besar.jpeg"
         }
       }
     },
-    "2026-10-02": {
+    "2026-10-09": {
       "hari": "Jumat",
       "isiOmpreng": [
         "Roti Tawar",
@@ -324,7 +317,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-02-kecil.jpeg"
+          "foto": "image/menu-2026-10-09-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -353,7 +346,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-02-besar.jpeg"
+          "foto": "image/menu-2026-10-09-besar.jpeg"
         }
       }
     }
