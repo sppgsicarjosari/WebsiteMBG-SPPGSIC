@@ -1,7 +1,7 @@
 {
   "dapur": "SPPG Kota Malang Blimbing Arjosari",
   "menu": {
-    "2026-09-28": {
+    "2026-10-05": {
       "hari": "Senin",
       "isiOmpreng": [
         "Nasi Putih",
@@ -10,65 +10,65 @@
         "Coleslaw Salad",
         "Buah Semangka"
       ],
-      "penerimaManfaat": 2402,
+      "penerimaManfaat": 2412,
       "porsi": {
         "kecil": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "610,0 kkal"
+              "value": "491,1 kkal"
             },
             {
               "label": "Protein",
-              "value": "23,1 g"
+              "value": "16,0 g"
             },
             {
               "label": "Lemak",
-              "value": "20,4 g"
+              "value": "16,2 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "83,2 g"
+              "value": "69,5 g"
             },
             {
               "label": "Serat",
-              "value": "2,1 g"
+              "value": "0,8 g"
             }
           ],
           "peringatan": [
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-28-kecil.jpeg"
+          "foto": "image/menu-2026-10-05-kecil.jpeg"
         },
         "besar": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "752,3 kkal"
+              "value": "697,3 kkal"
             },
             {
               "label": "Protein",
-              "value": "27,8 g"
+              "value": "21,7 g"
             },
             {
               "label": "Lemak",
-              "value": "24,2 g"
+              "value": "23,6 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "106,0 g"
+              "value": "98,7 g"
             },
             {
               "label": "Serat",
-              "value": "2,8 g"
+              "value": "1,0 g"
             }
           ],
           "peringatan": [
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-09-28-besar.jpeg"
+          "foto": "image/menu-2026-10-05-besar.jpeg"
         }
       }
     },
