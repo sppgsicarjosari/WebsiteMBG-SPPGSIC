@@ -152,19 +152,19 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "483,8 kkal"
+              "value": "506,0 kkal"
             },
             {
               "label": "Protein",
-              "value": "18,3 g"
+              "value": "16,0 g"
             },
             {
               "label": "Lemak",
-              "value": "17,7 g"
+              "value": "15,5 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "63,0 g"
+              "value": "74,5 g"
             },
             {
               "label": "Serat",
@@ -181,23 +181,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "665,3 kkal"
+              "value": "720,0 kkal"
             },
             {
               "label": "Protein",
-              "value": "25,6 g"
+              "value": "23,3 g"
             },
             {
               "label": "Lemak",
-              "value": "24,9 g"
+              "value": "23,2 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "84,5 g"
+              "value": "102,7 g"
             },
             {
               "label": "Serat",
-              "value": "1,9 g"
+              "value": "1,8 g"
             }
           ],
           "peringatan": [
