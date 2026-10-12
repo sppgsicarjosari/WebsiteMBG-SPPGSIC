@@ -76,7 +76,7 @@
       "hari": "Selasa",
        "isiOmpreng": [
         "Nasi Putih",
-        "Kakap Crispy",
+        "Dori Crispy",
         "Tempe Goreng Bawang Putih",
         "Tumis Jamur dan Jagung",
         "Buah Melon",
@@ -88,23 +88,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "0 kkal"
+              "value": "488,7 kkal"
             },
             {
               "label": "Protein",
-              "value": "0 g"
+              "value": "15,9 g"
             },
             {
               "label": "Lemak",
-              "value": "0 g"
+              "value": "15,4 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "0 g"
+              "value": "71,2 g"
             },
             {
               "label": "Serat",
-              "value": "0 g"
+              "value": "2,0 g"
             }
           ],
           "peringatan": [
@@ -117,23 +117,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "0 kkal"
+              "value": "697,2 kkal"
             },
             {
               "label": "Protein",
-              "value": "0 g"
+              "value": "23,8 g"
             },
             {
               "label": "Lemak",
-              "value": "0 g"
+              "value": "22,4 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "0 g"
+              "value": "99,7 g"
             },
             {
               "label": "Serat",
-              "value": "0 g"
+              "value": "2,8 g"
             }
           ],
           "peringatan": [
