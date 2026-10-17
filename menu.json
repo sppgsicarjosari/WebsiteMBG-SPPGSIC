@@ -1,14 +1,14 @@
 {
   "dapur": "SPPG Kota Malang Blimbing Arjosari",
   "menu": {
-    "2026-10-12": {
+    "2026-10-19": {
       "hari": "Senin",
       "isiOmpreng": [
-        "Nasi Kuning",
-        "Ayam Goreng Lengkuas",
-        "Tahu Bali",
-        "Tumis Kacang Panjang",
-        "Jeruk Keprok"
+        "Nasi Rumput Laut",
+        "Rolade Telur",
+        "Edamame",
+        "Capcay (Wortel, Kembang Kol, Sawi Hijau)",
+        "Semangka"
       ],
       "penerimaManfaat": 2412,
       "porsi": {
@@ -39,7 +39,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-12-kecil.jpeg"
+          "foto": "image/menu-2026-10-19-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -68,19 +68,18 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-12-besar.jpeg"
+          "foto": "image/menu-2026-10-19-besar.jpeg"
         }
       }
     },
-    "2026-10-13": {
+    "2026-10-20": {
       "hari": "Selasa",
        "isiOmpreng": [
         "Nasi Putih",
-        "Dori Crispy",
-        "Tempe Goreng Bawang Putih",
-        "Tumis Jamur dan Jagung",
-        "Buah Melon",
-        "Saus Asam Manis"
+        "Sate Ayam",
+        "Bumbu Kacang",
+        "Wortel dan Kentang",
+        "Pisang Cavendish"
       ],
       "penerimaManfaat": 3362,
       "porsi": {
@@ -111,7 +110,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-13-kecil.jpeg"
+          "foto": "image/menu-2026-10-20-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -140,18 +139,18 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-13-besar.jpeg"
+          "foto": "image/menu-2026-10-20-besar.jpeg"
         }
       }
     },
-    "2026-10-14": {
+    "2026-10-21": {
       "hari": "Rabu",
       "isiOmpreng": [
         "Nasi Putih",
-        "Nugget Ayam Bayam",
-        "Edamame",
-        "Tumis Kol dan Wortel",
-        "Kelengkeng"
+        "Martabak Telur Ayam",
+        "Tempe Balado",
+        "Tumis Kacang Panjang",
+        "Jeruk Baby"
       ],
       "penerimaManfaat": 3362,
       "porsi": {
@@ -182,7 +181,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-14-kecil.jpeg"
+          "foto": "image/menu-2026-10-21-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -211,18 +210,18 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-14-besar.jpeg"
+          "foto": "image/menu-2026-10-21-besar.jpeg"
         }
       }
     },
-    "2026-10-15": {
+    "2026-10-22": {
       "hari": "Kamis",
       "isiOmpreng": [
         "Nasi Putih",
-        "Telur Puyuh Kecap",
-        "Tempe Mendoan",
-        "Tumis Buncis dan Baby Corn",
-        "Anggur Merah"
+        "Kakap Salted Egg",
+        "Tahu Crispy",
+        "Tumis Labu Siam dan Baby Corn",
+        "Anggur Hijau"
       ],
       "penerimaManfaat": 2412,
       "porsi": {
@@ -253,7 +252,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-15-kecil.jpeg"
+          "foto": "image/menu-2026-10-22-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -282,19 +281,19 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-15-besar.jpeg"
+          "foto": "image/menu-2026-10-22-besar.jpeg"
         }
       }
     },
-    "2026-10-16": {
+    "2026-10-23": {
       "hari": "Jumat",
       "isiOmpreng": [
-        "Roti Tawar",
-        "Ayam Katsu",
-        "Tahu Fantasi",
-        "Selada dan Timun",
-        "Saus Mentai",
-        "Buah Pisang Barlin"
+        "Roti Bun",
+        "Chicken Patty",
+        "Tempe Crispy",
+        "Jagung Manis dan Selada",
+        "Saus Tartar",
+        "Buah Pepaya"
       ],
       "penerimaManfaat": 3350,
       "porsi": {
@@ -325,7 +324,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-16-kecil.jpeg"
+          "foto": "image/menu-2026-10-23-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -354,7 +353,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-10-16-besar.jpeg"
+          "foto": "image/menu-2026-10-23-besar.jpeg"
         }
       }
     }
