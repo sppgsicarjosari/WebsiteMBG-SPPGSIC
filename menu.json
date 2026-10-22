@@ -223,7 +223,7 @@
         "Tumis Labu Siam dan Baby Corn",
         "Anggur Hijau"
       ],
-      "penerimaManfaat": 2412,
+      "penerimaManfaat": 1598,
       "porsi": {
         "kecil": {
           "gizi": [
@@ -301,23 +301,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "493,0 kkal"
+              "value": "550,8 kkal"
             },
             {
               "label": "Protein",
-              "value": "18,5 g"
+              "value": "24,1 g"
             },
             {
               "label": "Lemak",
-              "value": "20,5 g"
+              "value": "21,5 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "57,2 g"
+              "value": "67,2 g"
             },
             {
               "label": "Serat",
-              "value": "6,5 g"
+              "value": "2,6 g"
             }
           ],
           "peringatan": [
@@ -330,23 +330,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "659,8 kkal"
+              "value": "657,2 kkal"
             },
             {
               "label": "Protein",
-              "value": "25,3 g"
+              "value": "29,0 g"
             },
             {
               "label": "Lemak",
-              "value": "28,5 g"
+              "value": "27,7 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "74,2 g"
+              "value": "75,1 g"
             },
             {
               "label": "Serat",
-              "value": "7,2 g"
+              "value": "3,1 g"
             }
           ],
           "peringatan": [
