@@ -35,6 +35,74 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
+          "foto": "image/menu-2026-11-02-kecil.jpeg"
+        },
+        "besar": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "0 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "0 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "0 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "0 g"
+            },
+            {
+              "label": "Serat",
+              "value": "0 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-11-02-besar.jpeg"
+        }
+      }
+    },
+    "2026-11-03": {
+      "hari": "Selasa",
+       "isiOmpreng": [
+        "isiOmpreng": [
+        "Libur Operasional"
+      ],
+      "penerimaManfaat": 0,
+      "porsi": {
+        "kecil": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "0 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "0 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "0 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "0 g"
+            },
+            {
+              "label": "Serat",
+              "value": "0 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
           "foto": "image/menu-2026-11-03-kecil.jpeg"
         },
         "besar": {
@@ -68,93 +136,22 @@
         }
       }
     },
-    "2026-11-03": {
-      "hari": "Selasa",
-       "isiOmpreng": [
-        "Nasi Putih",
-        "Telur Opor",
-        "Tempe Goreng Kuning",
-        "Tumis Buncis",
-        "Apel"
-      ],
-      "penerimaManfaat": 2361,
-      "porsi": {
-        "kecil": {
-          "gizi": [
-            {
-              "label": "Energi",
-              "value": "565,1 kkal"
-            },
-            {
-              "label": "Protein",
-              "value": "19,3 g"
-            },
-            {
-              "label": "Lemak",
-              "value": "26,5 g"
-            },
-            {
-              "label": "Karbohidrat",
-              "value": "72,4 g"
-            },
-            {
-              "label": "Serat",
-              "value": "5,6 g"
-            }
-          ],
-          "peringatan": [
-            "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
-            "Harap dikonsumsi segera setelah diterima."
-          ],
-          "foto": "image/menu-2026-11-03-kecil.jpeg"
-        },
-        "besar": {
-          "gizi": [
-            {
-              "label": "Energi",
-              "value": "653,2 kkal"
-            },
-            {
-              "label": "Protein",
-              "value": "22,1 g"
-            },
-            {
-              "label": "Lemak",
-              "value": "25,4 g"
-            },
-            {
-              "label": "Karbohidrat",
-              "value": "93,7 g"
-            },
-            {
-              "label": "Serat",
-              "value": "6,0 g"
-            }
-          ],
-          "peringatan": [
-            "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
-            "Harap dikonsumsi segera setelah diterima."
-          ],
-          "foto": "image/menu-2026-11-03-besar.jpeg"
-        }
-      }
-    },
     "2026-11-04": {
       "hari": "Rabu",
       "isiOmpreng": [
         "Nasi Putih",
-        "Ikan Kuah Pesmol",
-        "Tahu Goreng",
-        "Tumis Labu Siam dan Wortel",
-        "Buah Mangga"
+        "Tumis Bola Ayam",
+        "Tahu Sutra",
+        "Tumis Wortel dan Jagung",
+        "Buah Anggur Hijau"
       ],
-      "penerimaManfaat": 2361,
+      "penerimaManfaat": 3355,
       "porsi": {
         "kecil": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "458,8 kkal"
+              "value": "484,5 kkal"
             },
             {
               "label": "Protein",
@@ -162,15 +159,15 @@
             },
             {
               "label": "Lemak",
-              "value": "15,0 g"
+              "value": "15,1 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "64,6 g"
+              "value": "72,3 g"
             },
             {
               "label": "Serat",
-              "value": "2,5 g"
+              "value": "1,2 g"
             }
           ],
           "peringatan": [
@@ -183,23 +180,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "663,2 kkal"
+              "value": "681,8 kkal"
             },
             {
               "label": "Protein",
-              "value": "22,7 g"
+              "value": "22,0 g"
             },
             {
               "label": "Lemak",
-              "value": "23,9 g"
+              "value": "22,3 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "87,8 g"
+              "value": "98,1 g"
             },
             {
               "label": "Serat",
-              "value": "3,0 g"
+              "value": "1,4 g"
             }
           ],
           "peringatan": [
@@ -214,13 +211,12 @@
       "hari": "Kamis",
       "isiOmpreng": [
         "Nasi Putih",
-        "Ayam Goreng",
-        "Tempe Goreng",
-        "Sop Manten Solo",
-        "Buah Semangka",
-        "Sambel Terasi"
+        "Ayam Gulai",
+        "Tempe Mendoan",
+        "Tumis Kubis",
+        "Buah Pisang Cavendish"
       ],
-      "penerimaManfaat": 1562,
+      "penerimaManfaat": 2405,
       "porsi": {
         "kecil": {
           "gizi": [
@@ -285,14 +281,13 @@
     "2026-11-06": {
       "hari": "Jumat",
       "isiOmpreng": [
-        "Kentang Goreng",
-        "Bola Ayam",
-        "Tahu Sutra",
-        "Buncis dan Wortel",
-        "Kuah Selat Solo",
-        "Pisang Cavendish"
+        "Roti Tawar",
+        "Siomay Ayam dan Kubis",
+        "Tahu Crispy",
+        "Buah Pepaya",
+        "Saus Bangkok"
       ],
-      "penerimaManfaat": 2499,
+      "penerimaManfaat": 3343,
       "porsi": {
         "kecil": {
           "gizi": [
