@@ -1,74 +1,13 @@
 {
   "dapur": "SPPG Kota Malang Blimbing Arjosari",
   "menu": {
-    "2026-10-26": {
+    "2026-11-02": {
       "hari": "Senin",
-      "isiOmpreng": [
-        "Nasi Putih",
-        "Ayam Gongso",
-        "Tahu Goreng",
-        "Tumis Sawi Putih",
-        "Anggur Merah"
-      ],
-      "penerimaManfaat": 2361,
-      "porsi": {
-        "kecil": {
-          "gizi": [
-            {
-              "label": "Energi",
-              "value": "429,6 kkal"
-            },
-            {
-              "label": "Protein",
-              "value": "15,1 g"
-            },
-            {
-              "label": "Lemak",
-              "value": "16,0 g"
-            },
-            {
-              "label": "Karbohidrat",
-              "value": "55,8 g"
-            },
-            {
-              "label": "Serat",
-              "value": "2,4 g"
-            }
-          ],
-          "peringatan": [
-            "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
-            "Harap dikonsumsi segera setelah diterima."
-          ],
-          "foto": "image/menu-2026-10-26-kecil.jpeg"
-        },
-        "besar": {
-          "gizi": [
-            {
-              "label": "Energi",
-              "value": "626,3 kkal"
-            },
-            {
-              "label": "Protein",
-              "value": "23,0 g"
-            },
-            {
-              "label": "Lemak",
-              "value": "24,9 g"
-            },
-            {
-              "label": "Karbohidrat",
-              "value": "77,1 g"
-            },
-            {
-              "label": "Serat",
-              "value": "2,9 g"
-            }
-          ],
-          "peringatan": [
-            "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
-            "Harap dikonsumsi segera setelah diterima."
-          ],
-          "foto": "image/menu-2026-10-26-besar.jpeg"
+  "isiOmpreng": ["Hari ini libur — tidak ada distribusi makan"],
+  "penerimaManfaat": 0,
+  "porsi": {
+    "kecil": { "gizi": [], "peringatan": "Tidak ada distribusi karena hari libur.", "foto": "" },
+    "besar": { "gizi": [], "peringatan": "Tidak ada distribusi karena hari libur.", "foto": "" }
         }
       }
     },
