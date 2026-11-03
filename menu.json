@@ -3,11 +3,68 @@
   "menu": {
     "2026-11-02": {
       "hari": "Senin",
-  "isiOmpreng": ["Hari ini libur — tidak ada distribusi makan"],
-  "penerimaManfaat": 0,
-  "porsi": {
-    "kecil": { "gizi": [], "peringatan": "Tidak ada distribusi karena hari libur.", "foto": "" },
-    "besar": { "gizi": [], "peringatan": "Tidak ada distribusi karena hari libur.", "foto": "" }
+       "isiOmpreng": [
+        "Libur Operasional"
+      ],
+      "penerimaManfaat": 0,
+      "porsi": {
+        "kecil": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "0 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "0 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "0 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "0 g"
+            },
+            {
+              "label": "Serat",
+              "value": "0 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-11-03-kecil.jpeg"
+        },
+        "besar": {
+          "gizi": [
+            {
+              "label": "Energi",
+              "value": "0 kkal"
+            },
+            {
+              "label": "Protein",
+              "value": "0 g"
+            },
+            {
+              "label": "Lemak",
+              "value": "0 g"
+            },
+            {
+              "label": "Karbohidrat",
+              "value": "0 g"
+            },
+            {
+              "label": "Serat",
+              "value": "0 g"
+            }
+          ],
+          "peringatan": [
+            "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
+            "Harap dikonsumsi segera setelah diterima."
+          ],
+          "foto": "image/menu-2026-11-03-besar.jpeg"
         }
       }
     },
