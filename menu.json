@@ -211,8 +211,8 @@
       "isiOmpreng": [
         "Nasi Putih",
         "Ayam Gulai",
-        "Tempe Mendoan",
-        "Tumis Kubis",
+        "Kacang Merah Balado",
+        "Tumis Kubis/Tumis Daun Singkong",
         "Buah Pisang Cavendish"
       ],
       "penerimaManfaat": 2405,
@@ -221,23 +221,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "521,7 kkal"
+              "value": "547,6 kkal"
             },
             {
               "label": "Protein",
-              "value": "18,7 g"
+              "value": "16,3 g"
             },
             {
               "label": "Lemak",
-              "value": "19,9 g"
+              "value": "18,6 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "68,3 g"
+              "value": "78,2 g"
             },
             {
               "label": "Serat",
-              "value": "1,8 g"
+              "value": "3,5 g"
             }
           ],
           "peringatan": [
@@ -250,23 +250,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "725,7 kkal"
+              "value": "715,4 kkal"
             },
             {
               "label": "Protein",
-              "value": "26,3 g"
+              "value": "22,9 g"
             },
             {
               "label": "Lemak",
-              "value": "29,0 g"
+              "value": "24,2g"
             },
             {
               "label": "Karbohidrat",
-              "value": "91,9 g"
+              "value": "101,6 g"
             },
             {
               "label": "Serat",
-              "value": "2,8 g"
+              "value": "3,6 g"
             }
           ],
           "peringatan": [
