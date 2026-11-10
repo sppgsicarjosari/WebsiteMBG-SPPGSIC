@@ -153,29 +153,29 @@
         "Acar Kuning (Wortel dan Timun)",
         "Buah Jeruk"
       ],
-      "penerimaManfaat": 3355,
+      "penerimaManfaat": 3291,
       "porsi": {
         "kecil": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "484,5 kkal"
+              "value": "437,0 kkal"
             },
             {
               "label": "Protein",
-              "value": "15,1 g"
+              "value": "13,0 g"
             },
             {
               "label": "Lemak",
-              "value": "15,1 g"
+              "value": "11,4 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "72,3 g"
+              "value": "70,0 g"
             },
             {
               "label": "Serat",
-              "value": "1,2 g"
+              "value": "1,6 g"
             }
           ],
           "peringatan": [
@@ -188,23 +188,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "681,8 kkal"
+              "value": "642,9 kkal"
             },
             {
               "label": "Protein",
-              "value": "22,0 g"
+              "value": "26,7 g"
             },
             {
               "label": "Lemak",
-              "value": "22,3 g"
+              "value": "18,2 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "98,1 g"
+              "value": "91,9 g"
             },
             {
               "label": "Serat",
-              "value": "1,4 g"
+              "value": "1,7 g"
             }
           ],
           "peringatan": [
