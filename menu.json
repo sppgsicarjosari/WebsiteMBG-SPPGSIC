@@ -1,16 +1,16 @@
 {
   "dapur": "SPPG Kota Malang Blimbing Arjosari",
   "menu": {
-    "2026-11-16": {
+    "2026-11-23": {
       "hari": "Senin",
        "isiOmpreng": [
-        "Nasi Kuning",
-        "Telur Dadar",
-        "Tahu Bali",
-        "Tumis Buncis dan Wortel",
-        "Buah Apel Fuji"
+        "Nasi Putih",
+        "Telur Asam Manis",
+        "Tahu Sutra",
+        "Cah Sayur (Wortel, Buncis, Jamur Kuping)",
+        "Buah Anggur Muscat"
       ],
-      "penerimaManfaat": 2405,
+      "penerimaManfaat": 3005,
       "porsi": {
         "kecil": {
           "gizi": [
@@ -39,7 +39,7 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 10.00 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-11-16-kecil.jpeg"
+          "foto": "image/menu-2026-11-23-kecil.jpeg"
         },
         "besar": {
           "gizi": [
@@ -68,11 +68,11 @@
             "<strong>Baik Dikonsumsi Sebelum Jam 12.30 WIB</strong>",
             "Harap dikonsumsi segera setelah diterima."
           ],
-          "foto": "image/menu-2026-11-16-besar.jpeg"
+          "foto": "image/menu-2026-11-23-besar.jpeg"
         }
       }
     },
-    "2026-11-17": {
+    "2026-11-24": {
       "hari": "Selasa",
        "isiOmpreng": [
         "Nasi Putih",
