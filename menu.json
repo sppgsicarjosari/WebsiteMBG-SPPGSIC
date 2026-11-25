@@ -224,29 +224,29 @@
         "Tumis Buncis Bawang Putih",
         "Buah Kelengkeng"
       ],
-      "penerimaManfaat": 2941,
+      "penerimaManfaat": 3005,
       "porsi": {
         "kecil": {
           "gizi": [
             {
               "label": "Energi",
-              "value": "569,2 kkal"
+              "value": "534,4 kkal"
             },
             {
               "label": "Protein",
-              "value": "21,4 g"
+              "value": "20,0 g"
             },
             {
               "label": "Lemak",
-              "value": "20,6 g"
+              "value": "16,9 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "73,9 g"
+              "value": "75,6 g"
             },
             {
               "label": "Serat",
-              "value": "2,6 g"
+              "value": "2,4 g"
             }
           ],
           "peringatan": [
@@ -259,23 +259,23 @@
           "gizi": [
             {
               "label": "Energi",
-              "value": "720,8 kkal"
+              "value": "686,4 kkal"
             },
             {
               "label": "Protein",
-              "value": "26,6 g"
+              "value": "24,6 g"
             },
             {
               "label": "Lemak",
-              "value": "24,0 g"
+              "value": "20,0 g"
             },
             {
               "label": "Karbohidrat",
-              "value": "98,8 g"
+              "value": "101,9 g"
             },
             {
               "label": "Serat",
-              "value": "3,2 g"
+              "value": "2,8 g"
             }
           ],
           "peringatan": [
